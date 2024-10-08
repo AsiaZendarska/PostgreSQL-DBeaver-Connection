@@ -1,0 +1,1 @@
+select * from public.nba_sql
